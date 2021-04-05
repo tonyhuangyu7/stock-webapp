@@ -4,6 +4,7 @@
 /build/
 .project
 .DS_Store
+*.MF
 
 # Compiled class file
 *.class
